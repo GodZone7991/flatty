@@ -1,5 +1,33 @@
 [
   {
+    "title": "Piso en Carrer de la Riera d'Horta",
+    "url": "https://www.pisos.com/comprar/piso-el_congres_els_indians08027-61735806482_100500/",
+    "price": 298000,
+    "size_m2": 70.0,
+    "rooms": 3,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Carrer de la Riera d'Horta",
+    "id": "54650b9b849c9d0ee24862d4dc24327a",
+    "scraped_at": "2026-02-20T09:36:45.796527"
+  },
+  {
+    "title": "Piso en Carrer de l'Espiga",
+    "url": "https://www.pisos.com/comprar/piso-el_congres_els_indians08027-58428362496_100200/",
+    "price": 249000,
+    "size_m2": 63.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Carrer de l'Espiga",
+    "id": "f708fee4c10bf380b80c9391ff6714ef",
+    "scraped_at": "2026-02-20T09:36:45.796527"
+  },
+  {
     "title": "Piso en calle Tessalia",
     "url": "https://www.pisos.com/comprar/piso-diagonal_mar_el_front_maritim_del_poblenou08019-53415193377_100500/",
     "price": 115000,
