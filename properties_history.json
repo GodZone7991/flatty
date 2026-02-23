@@ -1,5 +1,63 @@
 [
   {
+    "title": "Piso en Roquetes",
+    "url": "https://www.pisos.com/comprar/piso-nou_barris_roquetes08042-59257136388_100200/",
+    "price": 220000,
+    "size_m2": 63.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [
+      "https://fotos.imghs.net/mm-wp/1002/139/1002_640139_1_2025112711110408658.jpeg"
+    ],
+    "raw_description": "Piso en Roquetes",
+    "id": "5913445d1b9c250e435e88571ac42463",
+    "scraped_at": "2026-02-23T09:50:02.093778"
+  },
+  {
+    "title": "Piso en Roquetes",
+    "url": "https://www.pisos.com/comprar/piso-nou_barris_roquetes08042-59253145051_100200/",
+    "price": 240000,
+    "size_m2": 58.0,
+    "rooms": 3,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Roquetes",
+    "id": "3abda64a497657df4a8c7b7ab5c2b558",
+    "scraped_at": "2026-02-23T09:50:02.093778"
+  },
+  {
+    "title": "Ático en Carrer de la Mare de Déu de Port",
+    "url": "https://www.pisos.com/comprar/atico-la_marina_del_prat_vermell_zona_franca_port08038-57596634335_525021/",
+    "price": 300000,
+    "size_m2": 89.0,
+    "rooms": 3,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Ático en Carrer de la Mare de Déu de Port",
+    "id": "ed1b8ec8ebb611c4829997c0e12a5a76",
+    "scraped_at": "2026-02-23T09:50:02.093778"
+  },
+  {
+    "title": "Piso en Carrer del Doctor Letamendi",
+    "url": "https://www.pisos.com/comprar/piso-horta_guinardo_horta08031-59176220844_100500/",
+    "price": 257000,
+    "size_m2": 61.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Carrer del Doctor Letamendi",
+    "id": "f6a22ae26938649ceeb04d9443870a97",
+    "scraped_at": "2026-02-23T09:50:02.093778"
+  },
+  {
     "title": "Piso en Carrer de la Riera d'Horta",
     "url": "https://www.pisos.com/comprar/piso-el_congres_els_indians08027-61735806482_100500/",
     "price": 298000,
