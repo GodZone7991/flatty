@@ -1,5 +1,68 @@
 [
   {
+    "title": "Piso en Sant Andreu",
+    "url": "https://www.pisos.com/comprar/piso-sant_andreu_barrio08030-61698127935_100200/",
+    "price": 215000,
+    "size_m2": 55.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Sant Andreu",
+    "id": "331b99db234bb5b973bdfe1e2ab0b644",
+    "scraped_at": "2026-02-25T09:49:55.395600"
+  },
+  {
+    "title": "Piso en calle del Río San Pedro",
+    "url": "https://www.pisos.com/comprar/piso-puente_de_vallecas_portazgo28018-61733263347_109300/",
+    "price": 185000,
+    "size_m2": 64.0,
+    "rooms": 2,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [
+      "https://fotos.imghs.net/mm-wp/1093/487/1093_EP349-22487_1_2026022416433131250.jpg",
+      "https://fotos.imghs.net/m-wp/1093/487/1093_EP349-22487_2_2026022416433131250.jpg",
+      "https://fotos.imghs.net/m-wp/1093/487/1093_EP349-22487_3_2026022416433131250.jpg",
+      "https://fotos.imghs.net/m-wp/1093/487/1093_EP349-22487_4_2026022416433131250.jpg"
+    ],
+    "raw_description": "Piso en calle del Río San Pedro",
+    "id": "f04360ee886694258b28a0b3859b1d24",
+    "scraped_at": "2026-02-25T09:49:55.395600"
+  },
+  {
+    "title": "Piso en Vallecas",
+    "url": "https://www.pisos.com/comprar/piso-puente_de_vallecas_entrevias28053-61756885683_109300/",
+    "price": 276000,
+    "size_m2": 89.0,
+    "rooms": 3,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [
+      "https://fotos.imghs.net/mm-wp/1093/334/1093_EP349-22334_1_2026022405403031250.jpg"
+    ],
+    "raw_description": "Piso en Vallecas",
+    "id": "93c98ee8c494eed913af3943541051f6",
+    "scraped_at": "2026-02-25T09:49:55.395600"
+  },
+  {
+    "title": "Piso en Vicálvaro",
+    "url": "https://www.pisos.com/comprar/piso-vicalvaro_ambroz28032-58419532275_109300/",
+    "price": 213000,
+    "size_m2": 55.0,
+    "rooms": 3,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Vicálvaro",
+    "id": "090f53f619ae14959ec93836d5401993",
+    "scraped_at": "2026-02-25T09:49:55.395600"
+  },
+  {
     "title": "Piso en Roquetes",
     "url": "https://www.pisos.com/comprar/piso-nou_barris_roquetes08042-59257136388_100200/",
     "price": 220000,
