@@ -1,5 +1,47 @@
 [
   {
+    "title": "Piso en Roquetes",
+    "url": "https://www.pisos.com/comprar/piso-nou_barris_roquetes08042-61747804833_100200/",
+    "price": 150000,
+    "size_m2": 51.0,
+    "rooms": 0,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Roquetes",
+    "id": "ab6d077630fe6b52a06cdafd4e7cfb39",
+    "scraped_at": "2026-02-27T09:36:27.503337"
+  },
+  {
+    "title": "Piso en Carrer de Premià",
+    "url": "https://www.pisos.com/comprar/piso-sants_montjuic_sants08014-61758315980_100200/",
+    "price": 275000,
+    "size_m2": 72.0,
+    "rooms": 3,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Carrer de Premià",
+    "id": "dfa7594441021c98f550df6f6abd2c61",
+    "scraped_at": "2026-02-27T09:36:27.503337"
+  },
+  {
+    "title": "Piso en calle de Emilia Pardo Bazán",
+    "url": "https://www.pisos.com/comprar/piso-sant_andreu_la_sagrera08027-61695472750_100200/",
+    "price": 239000,
+    "size_m2": 65.0,
+    "rooms": 3,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en calle de Emilia Pardo Bazán",
+    "id": "1c140897572fd1e2034633aaeebf6b17",
+    "scraped_at": "2026-02-27T09:36:27.503337"
+  },
+  {
     "title": "Piso en Sant Andreu",
     "url": "https://www.pisos.com/comprar/piso-sant_andreu_barrio08030-61698127935_100200/",
     "price": 215000,
