@@ -1,5 +1,47 @@
 [
   {
+    "title": "Ático en Carrer de Sant Francesc Xavier",
+    "url": "https://www.pisos.com/comprar/atico-la_prosperitat08016-61704136787_501025/",
+    "price": 240000,
+    "size_m2": 70.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Ático en Carrer de Sant Francesc Xavier",
+    "id": "14ea5e75c0a674ea2e872a92e293f9b8",
+    "scraped_at": "2026-03-04T09:36:14.794005"
+  },
+  {
+    "title": "Piso en calle del Espinar",
+    "url": "https://www.pisos.com/comprar/piso-carabanchel_vista_alegre28047-61705317588_994867/",
+    "price": 242550,
+    "size_m2": 97.0,
+    "rooms": 3,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en calle del Espinar",
+    "id": "bcd3f3a67ff841eb7b42a5f904287633",
+    "scraped_at": "2026-03-04T09:36:14.794005"
+  },
+  {
+    "title": "Piso en calle de la Sierra de Monchique",
+    "url": "https://www.pisos.com/comprar/piso-puente_de_vallecas_san_diego28053-61708317416_994867/",
+    "price": 183000,
+    "size_m2": 68.0,
+    "rooms": 3,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en calle de la Sierra de Monchique",
+    "id": "e72a6dc225e18124bd77def4981a1d4d",
+    "scraped_at": "2026-03-04T09:36:14.794005"
+  },
+  {
     "title": "Ático en Carrer de Coll i Alentorn",
     "url": "https://www.pisos.com/comprar/atico-la_vall_hebron-61759281984_513853/",
     "price": 290000,
