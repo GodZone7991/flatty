@@ -1,5 +1,33 @@
 [
   {
+    "title": "Piso en Carrer de l'Hortal",
+    "url": "https://www.pisos.com/comprar/piso-el_carmel08032-62579995819_103700/",
+    "price": 240000,
+    "size_m2": 60.0,
+    "rooms": 3,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Carrer de l'Hortal",
+    "id": "46eff466c6ff89be9a627a3d78d824e9",
+    "scraped_at": "2026-03-06T09:34:26.703072"
+  },
+  {
+    "title": "Piso en calle de San Claudio",
+    "url": "https://www.pisos.com/comprar/piso-palomeras_sureste28038-61669553565_102200/",
+    "price": 235000,
+    "size_m2": 64.0,
+    "rooms": 2,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en calle de San Claudio",
+    "id": "2bd641c74fd82f59c5ed4d2e9cfa5861",
+    "scraped_at": "2026-03-06T09:34:26.703072"
+  },
+  {
     "title": "Ático en Carrer de Sant Francesc Xavier",
     "url": "https://www.pisos.com/comprar/atico-la_prosperitat08016-61704136787_501025/",
     "price": 240000,
