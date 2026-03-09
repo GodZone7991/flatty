@@ -1,5 +1,33 @@
 [
   {
+    "title": "Piso en Carrer de la Mare de Déu del Remei",
+    "url": "https://www.pisos.com/comprar/piso-el_poble_sec08004-60037501467_515865/",
+    "price": 250000,
+    "size_m2": 70.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Carrer de la Mare de Déu del Remei",
+    "id": "4fce1b4f9163c03d5e3ca284edd5724d",
+    "scraped_at": "2026-03-09T09:44:27.532340"
+  },
+  {
+    "title": "Piso en calle de Albares de la Ribera",
+    "url": "https://www.pisos.com/comprar/piso-puerta_bonita28025-62581199202_102200/",
+    "price": 182000,
+    "size_m2": 55.0,
+    "rooms": 3,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en calle de Albares de la Ribera",
+    "id": "e12f673eb63b4501f05ec577cd123554",
+    "scraped_at": "2026-03-09T09:44:27.532340"
+  },
+  {
     "title": "Piso en Carrer de l'Hortal",
     "url": "https://www.pisos.com/comprar/piso-el_carmel08032-62579995819_103700/",
     "price": 240000,
