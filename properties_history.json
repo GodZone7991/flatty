@@ -1,5 +1,33 @@
 [
   {
+    "title": "Piso en Carrer de la Riereta",
+    "url": "https://www.pisos.com/comprar/piso-el_raval08001-62570808907_525021/",
+    "price": 290000,
+    "size_m2": 65.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Carrer de la Riereta",
+    "id": "a10a12e4ce55badb8878802a8761d63b",
+    "scraped_at": "2026-03-11T09:38:29.090073"
+  },
+  {
+    "title": "Ático en Passeig Universal",
+    "url": "https://www.pisos.com/comprar/atico-horta_guinardo_horta08031-62593806637_100500/",
+    "price": 280000,
+    "size_m2": 69.0,
+    "rooms": 3,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Ático en Passeig Universal",
+    "id": "c9a9138d41efc975bab4c761ffb436b4",
+    "scraped_at": "2026-03-11T09:38:29.090073"
+  },
+  {
     "title": "Piso en Carrer de la Mare de Déu del Remei",
     "url": "https://www.pisos.com/comprar/piso-el_poble_sec08004-60037501467_515865/",
     "price": 250000,
