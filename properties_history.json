@@ -1,6 +1,67 @@
 [
   {
     "title": "Piso en Carrer de la Riereta",
+    "url": "https://www.pisos.com/comprar/piso-el_raval08001-62528981862_525021/",
+    "price": 290000,
+    "size_m2": 65.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Carrer de la Riereta",
+    "id": "b381daded246c77d0930c9185a84a36d",
+    "scraped_at": "2026-03-13T09:35:49.151524"
+  },
+  {
+    "title": "Piso en calle de Federico Grases",
+    "url": "https://www.pisos.com/comprar/piso-puerta_bonita28025-60910329692_101800/",
+    "price": 228500,
+    "size_m2": 65.0,
+    "rooms": 3,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [
+      "https://fotos.imghs.net/mm-wp/1018/510/1018_107608510_1_2026011521013967824.jpg",
+      "https://fotos.imghs.net/m-wp/1018/510/1018_107608510_2_2026011521013967827.jpg",
+      "https://fotos.imghs.net/m-wp/1018/510/1018_107608510_3_2026011521013967828.jpg",
+      "https://fotos.imghs.net/m-wp/1018/510/1018_107608510_4_2026011521013967828.jpg"
+    ],
+    "raw_description": "Piso en calle de Federico Grases",
+    "id": "13eb236679d2eb74ca3359d3a159f336",
+    "scraped_at": "2026-03-13T09:35:49.151524"
+  },
+  {
+    "title": "Piso en calle de Campotejar",
+    "url": "https://www.pisos.com/comprar/piso-orcasur28041-62524454910_528352/",
+    "price": 272000,
+    "size_m2": 113.0,
+    "rooms": 4,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en calle de Campotejar",
+    "id": "2900a384937325673a33f99b57871db8",
+    "scraped_at": "2026-03-13T09:35:49.151524"
+  },
+  {
+    "title": "Piso en calle de Campotejar",
+    "url": "https://www.pisos.com/comprar/piso-orcasur28041-62534935888_100500/",
+    "price": 188000,
+    "size_m2": 91.0,
+    "rooms": 2,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en calle de Campotejar",
+    "id": "7a6b3153cd24d23fcdd71a24f8e711a2",
+    "scraped_at": "2026-03-13T09:35:49.151524"
+  },
+  {
+    "title": "Piso en Carrer de la Riereta",
     "url": "https://www.pisos.com/comprar/piso-el_raval08001-62570808907_525021/",
     "price": 290000,
     "size_m2": 65.0,
