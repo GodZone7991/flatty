@@ -1,5 +1,77 @@
 [
   {
+    "title": "Ático en Carrer de Coll i Alentorn",
+    "url": "https://www.pisos.com/comprar/atico-la_vall_hebron-62563043542_513853/",
+    "price": 290000,
+    "size_m2": 63.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Ático en Carrer de Coll i Alentorn",
+    "id": "b7fe07c549485699d54212247333f485",
+    "scraped_at": "2026-03-16T10:02:09.019989"
+  },
+  {
+    "title": "Ático en Carrer de Plutó",
+    "url": "https://www.pisos.com/comprar/atico-la_teixonera08035-62529589687_513853/",
+    "price": 290000,
+    "size_m2": 64.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Ático en Carrer de Plutó",
+    "id": "f9966a9f98baac09c46460474626c285",
+    "scraped_at": "2026-03-16T10:02:09.019989"
+  },
+  {
+    "title": "Piso en Torre Baró",
+    "url": "https://www.pisos.com/comprar/piso-torre_baro08042-62537382711_100200/",
+    "price": 250000,
+    "size_m2": 56.0,
+    "rooms": 3,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Torre Baró",
+    "id": "dc807bbd209f37c045a4cb0f97f5e705",
+    "scraped_at": "2026-03-16T10:02:09.019989"
+  },
+  {
+    "title": "Piso en calle de Albares de la Ribera",
+    "url": "https://www.pisos.com/comprar/piso-puerta_bonita-62554829113_102200/",
+    "price": 179000,
+    "size_m2": 55.0,
+    "rooms": 3,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [
+      "https://fotos.imghs.net/mm-wp/1022/870/1022_IN404-35870_1_202603121231062278380.jpg"
+    ],
+    "raw_description": "Piso en calle de Albares de la Ribera",
+    "id": "90b5526c7a7989669387548dac9d696c",
+    "scraped_at": "2026-03-16T10:02:09.019989"
+  },
+  {
+    "title": "Piso en calle de Illescas",
+    "url": "https://www.pisos.com/comprar/piso-latina_aluche28024-59224258672_518874/",
+    "price": 230000,
+    "size_m2": 56.0,
+    "rooms": 2,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en calle de Illescas",
+    "id": "b3a01f5902f2d0a37b3e8362d9dd8eb1",
+    "scraped_at": "2026-03-16T10:02:09.019989"
+  },
+  {
     "title": "Piso en Carrer de la Riereta",
     "url": "https://www.pisos.com/comprar/piso-el_raval08001-62528981862_525021/",
     "price": 290000,
