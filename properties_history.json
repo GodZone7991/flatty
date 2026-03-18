@@ -1,5 +1,33 @@
 [
   {
+    "title": "Piso en Passeig de Guayaquil",
+    "url": "https://www.pisos.com/comprar/piso-baro_de_viver-62552025219_330000/",
+    "price": 255000,
+    "size_m2": 85.0,
+    "rooms": 3,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Passeig de Guayaquil",
+    "id": "a4a7350ae1b99b6c2914a9491db6638b",
+    "scraped_at": "2026-03-18T09:48:32.304383"
+  },
+  {
+    "title": "Piso en Villa de Vallecas",
+    "url": "https://www.pisos.com/comprar/piso-villa_de_vallecas_santa_eugenia28031-55915761838_109300/",
+    "price": 210000,
+    "size_m2": 68.0,
+    "rooms": 2,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Villa de Vallecas",
+    "id": "070eb7b206a0575d53ca4a6cd752758e",
+    "scraped_at": "2026-03-18T09:48:32.304383"
+  },
+  {
     "title": "Ático en Carrer de Coll i Alentorn",
     "url": "https://www.pisos.com/comprar/atico-la_vall_hebron-62563043542_513853/",
     "price": 290000,
