@@ -1,5 +1,54 @@
 [
   {
+    "title": "Piso en Avinguda Meridiana",
+    "url": "https://www.pisos.com/comprar/piso-el_camp_de_arpa_del_clot08026-59223005858_103700/",
+    "price": 299000,
+    "size_m2": 81.0,
+    "rooms": 3,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [
+      "https://fotos.imghs.net/mm-wp/1037/519/1037_LCB39519_0_2025112009115206442.jpeg",
+      "https://fotos.imghs.net/m-wp/1037/519/1037_LCB39519_1_2025112009115206445.jpeg",
+      "https://fotos.imghs.net/m-wp/1037/519/1037_LCB39519_2_2025112009115206445.jpeg",
+      "https://fotos.imghs.net/m-wp/1037/519/1037_LCB39519_3_2025112009115206446.jpeg"
+    ],
+    "raw_description": "Piso en Avinguda Meridiana",
+    "id": "d73f0fa3cd73ec4ea88572429cb61f76",
+    "scraped_at": "2026-03-23T09:58:49.240353"
+  },
+  {
+    "title": "Piso en Carrer d'Andrade",
+    "url": "https://www.pisos.com/comprar/piso-sant_marti_de_provencals08020-62586459727_103700/",
+    "price": 295000,
+    "size_m2": 68.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [
+      "https://fotos.imghs.net/mm-wp/1037/604/1037_LCB41604_0_202603041659415408414.jpg"
+    ],
+    "raw_description": "Piso en Carrer d'Andrade",
+    "id": "4f3a01513fbf4d28f9cd865d8a0611d3",
+    "scraped_at": "2026-03-23T09:58:49.240353"
+  },
+  {
+    "title": "Piso en Carrer del Pedraforca",
+    "url": "https://www.pisos.com/comprar/piso-nou_barris_ciutat_meridiana-62555316906_500869/",
+    "price": 185000,
+    "size_m2": 70.0,
+    "rooms": 3,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Carrer del Pedraforca",
+    "id": "8ad32019a90b7be4d9b2b16e1f67f3fe",
+    "scraped_at": "2026-03-23T09:58:49.240353"
+  },
+  {
     "title": "Piso en Carrer d'Escòcia",
     "url": "https://www.pisos.com/comprar/piso-vilapicina_la_torre_llobeta08016-62563653150_525021/",
     "price": 289000,
