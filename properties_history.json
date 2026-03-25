@@ -1,5 +1,54 @@
 [
   {
+    "title": "Piso en Los Ángeles",
+    "url": "https://www.pisos.com/comprar/piso-villaverde_los_angeles-62564823587_100200/",
+    "price": 299000,
+    "size_m2": 94.0,
+    "rooms": 3,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [
+      "https://fotos.imghs.net/mm-wp/1002/330/1002_652330_1_202603201645079145070.jpeg",
+      "https://fotos.imghs.net/m-wp/1002/330/1002_652330_2_202603201645079145314.jpeg",
+      "https://fotos.imghs.net/m-wp/1002/330/1002_652330_3_202603201645079145373.jpeg",
+      "https://fotos.imghs.net/m-wp/1002/330/1002_652330_4_202603201645079145435.jpeg"
+    ],
+    "raw_description": "Piso en Los Ángeles",
+    "id": "485b203008c3f87d0b51f460ebf7f776",
+    "scraped_at": "2026-03-25T09:49:23.714142"
+  },
+  {
+    "title": "Piso en Los Ángeles",
+    "url": "https://www.pisos.com/comprar/piso-villaverde_los_angeles-61676099248_100200/",
+    "price": 290000,
+    "size_m2": 87.0,
+    "rooms": 3,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [
+      "https://fotos.imghs.net/mm-wp/1002/337/1002_647337_1_202602091040539277486.jpeg"
+    ],
+    "raw_description": "Piso en Los Ángeles",
+    "id": "0438afc5972a9925101bfc8f3f2bbce5",
+    "scraped_at": "2026-03-25T09:49:23.714142"
+  },
+  {
+    "title": "Piso en calle de Campotejar, 2",
+    "url": "https://www.pisos.com/comprar/piso-orcasur28041-62531818646_528352/",
+    "price": 188000,
+    "size_m2": 83.0,
+    "rooms": 2,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en calle de Campotejar, 2",
+    "id": "c8296b02e34105611c20c659d894e48d",
+    "scraped_at": "2026-03-25T09:49:23.714142"
+  },
+  {
     "title": "Piso en Avinguda Meridiana",
     "url": "https://www.pisos.com/comprar/piso-el_camp_de_arpa_del_clot08026-59223005858_103700/",
     "price": 299000,
