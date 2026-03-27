@@ -1,5 +1,21 @@
 [
   {
+    "title": "Piso en calle de Cuart de Poblet",
+    "url": "https://www.pisos.com/comprar/piso-lucero28047-62544723963_518874/",
+    "price": 259000,
+    "size_m2": 77.0,
+    "rooms": 3,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [
+      "https://fotos.imghs.net/mm-wp/518874/62544723963.518874/518874_62544723963_c66ff6df-b530-4276-9784-5198c629a53f.jpg"
+    ],
+    "raw_description": "Piso en calle de Cuart de Poblet",
+    "id": "8994842654f1b531a9d6b714d0fac6fa",
+    "scraped_at": "2026-03-27T09:51:28.945280"
+  },
+  {
     "title": "Piso en Los Ángeles",
     "url": "https://www.pisos.com/comprar/piso-villaverde_los_angeles-62564823587_100200/",
     "price": 299000,
