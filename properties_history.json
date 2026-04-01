@@ -1,5 +1,33 @@
 [
   {
+    "title": "Piso en Roquetes",
+    "url": "https://www.pisos.com/comprar/piso-nou_barris_roquetes-62592350542_100200/",
+    "price": 130000,
+    "size_m2": 62.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Roquetes",
+    "id": "3bcffd02a509f37c5622c36796f739d1",
+    "scraped_at": "2026-04-01T10:04:14.769132"
+  },
+  {
+    "title": "Piso en calle de Juan de la Fuente",
+    "url": "https://www.pisos.com/comprar/piso-casco_historico_de_vallecas-62588697105_102200/",
+    "price": 185000,
+    "size_m2": 52.0,
+    "rooms": 2,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en calle de Juan de la Fuente",
+    "id": "2a59ccf9fc08eefa30374f68edd983c9",
+    "scraped_at": "2026-04-01T10:04:14.769132"
+  },
+  {
     "title": "Piso en calle de Cuart de Poblet",
     "url": "https://www.pisos.com/comprar/piso-lucero28047-62544723963_518874/",
     "price": 259000,
