@@ -1,5 +1,19 @@
 [
   {
+    "title": "Ático en Passeig Universal",
+    "url": "https://www.pisos.com/comprar/atico-horta_guinardo_horta-62593806637_100500/",
+    "price": 280000,
+    "size_m2": 69.0,
+    "rooms": 3,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Ático en Passeig Universal",
+    "id": "43bbec586168443f4804fb7c7bb245c3",
+    "scraped_at": "2026-04-03T09:49:51.150012"
+  },
+  {
     "title": "Piso en Roquetes",
     "url": "https://www.pisos.com/comprar/piso-nou_barris_roquetes-62592350542_100200/",
     "price": 130000,
