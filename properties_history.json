@@ -1,5 +1,24 @@
 [
   {
+    "title": "Casa unifamiliar en Torre Baró",
+    "url": "https://www.pisos.com/comprar/casa_unifamiliar-torre_baro-60092677187_100200/",
+    "price": 169950,
+    "size_m2": 89.0,
+    "rooms": 3,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [
+      "https://fotos.imghs.net/mm-wp/1002/471/1002_642471_1_2025121618122202223.jpeg",
+      "https://fotos.imghs.net/m-wp/1002/471/1002_642471_2_2025121618122202233.jpeg",
+      "https://fotos.imghs.net/m-wp/1002/471/1002_642471_3_2025121618122202235.jpeg",
+      "https://fotos.imghs.net/m-wp/1002/471/1002_642471_4_2025121618122202237.jpeg"
+    ],
+    "raw_description": "Casa unifamiliar en Torre Baró",
+    "id": "5862dc0c9b464f0bd7110a456900aaff",
+    "scraped_at": "2026-04-06T10:05:57.098199"
+  },
+  {
     "title": "Ático en Passeig Universal",
     "url": "https://www.pisos.com/comprar/atico-horta_guinardo_horta-62593806637_100500/",
     "price": 280000,
