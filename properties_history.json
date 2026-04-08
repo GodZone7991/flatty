@@ -1,5 +1,33 @@
 [
   {
+    "title": "Piso en Valverde",
+    "url": "https://www.pisos.com/comprar/piso-fuencarral_el_pardo_valverde-62548932154_102200/",
+    "price": 203900,
+    "size_m2": 55.0,
+    "rooms": 3,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Valverde",
+    "id": "3d71440c1eaa9ecd9f45bf4ce72ee7ee",
+    "scraped_at": "2026-04-08T10:04:27.385782"
+  },
+  {
+    "title": "Piso en calle de Castro de Oro",
+    "url": "https://www.pisos.com/comprar/piso-opanel28019-62575863128_520820/",
+    "price": 191000,
+    "size_m2": 54.0,
+    "rooms": 2,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en calle de Castro de Oro",
+    "id": "25804d5c5126975d9c12be4485dba1b3",
+    "scraped_at": "2026-04-08T10:04:27.385782"
+  },
+  {
     "title": "Casa unifamiliar en Torre Baró",
     "url": "https://www.pisos.com/comprar/casa_unifamiliar-torre_baro-60092677187_100200/",
     "price": 169950,
