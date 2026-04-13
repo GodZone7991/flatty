@@ -1,5 +1,24 @@
 [
   {
+    "title": "Piso en Carrer del Francolí",
+    "url": "https://www.pisos.com/comprar/piso-sant_gervasi_galvany08006-63410775656_100500/",
+    "price": 230000,
+    "size_m2": 67.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [
+      "https://fotos.imghs.net/mm-wp/1005/468/1005_4243468_1_202604020105021301242.jpg",
+      "https://fotos.imghs.net/m-wp/1005/468/1005_4243468_2_202604020105021301519.jpg",
+      "https://fotos.imghs.net/m-wp/1005/468/1005_4243468_3_202604020105021301573.jpg",
+      "https://fotos.imghs.net/m-wp/1005/468/1005_4243468_4_202604020105021301645.jpg"
+    ],
+    "raw_description": "Piso en Carrer del Francolí",
+    "id": "1905035ce7b17c36849eecfd3a6e8dad",
+    "scraped_at": "2026-04-13T10:32:58.370822"
+  },
+  {
     "title": "Piso en Valverde",
     "url": "https://www.pisos.com/comprar/piso-fuencarral_el_pardo_valverde-62548932154_102200/",
     "price": 203900,
