@@ -1,5 +1,52 @@
 [
   {
+    "title": "Piso en Carrer de l'Estadella",
+    "url": "https://www.pisos.com/comprar/piso-el_bon_pastor08030-60058033212_501025/",
+    "price": 230000,
+    "size_m2": 67.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [
+      "https://fotos.imghs.net/mm-wp/501025/60058033212.501025/501025_60058033212_d9c6148c-ec94-45aa-8ae8-481442690273.jpg",
+      "https://fotos.imghs.net/m-wp/501025/60058033212.501025/501025_60058033212_1e4720f9-e183-4c92-9f80-512b5807593a.jpg",
+      "https://fotos.imghs.net/m-wp/501025/60058033212.501025/501025_60058033212_705579ae-5bd2-4a9d-9d21-7a9b76ecdb09.jpg",
+      "https://fotos.imghs.net/m-wp/501025/60058033212.501025/501025_60058033212_6bb1d670-10e6-4aa5-aefd-b81af6bf8a26.jpg"
+    ],
+    "raw_description": "Piso en Carrer de l'Estadella",
+    "id": "b89384462082d41e0b102f97c00e9fcc",
+    "scraped_at": "2026-04-17T10:11:22.413946"
+  },
+  {
+    "title": "Piso en Carrer de la Mare de Déu de Port",
+    "url": "https://www.pisos.com/comprar/piso-la_marina_del_port_parc_de_montjuic08038-59253402628_997297/",
+    "price": 249000,
+    "size_m2": 62.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Carrer de la Mare de Déu de Port",
+    "id": "8b87d4d68773ae65993d33be64c7ba9d",
+    "scraped_at": "2026-04-17T10:11:22.413946"
+  },
+  {
+    "title": "Piso en Porta",
+    "url": "https://www.pisos.com/comprar/piso-nou_barris_porta-57532835835_100200/",
+    "price": 275000,
+    "size_m2": 58.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Porta",
+    "id": "2e8d84bde22fed717a74246be2a56578",
+    "scraped_at": "2026-04-17T10:11:22.413946"
+  },
+  {
     "title": "Piso en Carrer del Pare Laínez",
     "url": "https://www.pisos.com/comprar/piso-el_camp_en_grassot_gracia_nova08025-60074094663_994552/",
     "price": 260000,
