@@ -1,5 +1,63 @@
 [
   {
+    "title": "Piso en Avinguda Meridiana",
+    "url": "https://www.pisos.com/comprar/piso-el_camp_de_arpa_del_clot08026-63416465096_525021/",
+    "price": 299000,
+    "size_m2": 81.0,
+    "rooms": 3,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Avinguda Meridiana",
+    "id": "7ba8ffaefab3a09a9a2d6a04be7ee495",
+    "scraped_at": "2026-04-22T10:26:15.529064"
+  },
+  {
+    "title": "Piso en Carrer del Pare Rodés",
+    "url": "https://www.pisos.com/comprar/piso-verdun-62549712055_525021/",
+    "price": 278000,
+    "size_m2": 68.0,
+    "rooms": 3,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Carrer del Pare Rodés",
+    "id": "20b406bfc2446f0f993985d57c48cd1f",
+    "scraped_at": "2026-04-22T10:26:15.529064"
+  },
+  {
+    "title": "Piso en Carrer d'En Sant Climent",
+    "url": "https://www.pisos.com/comprar/piso-el_raval08001-55918610286_515865/",
+    "price": 197000,
+    "size_m2": 62.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Carrer d'En Sant Climent",
+    "id": "2a693dd15099e4640c233b62be66f10b",
+    "scraped_at": "2026-04-22T10:26:15.529064"
+  },
+  {
+    "title": "Piso en Vicálvaro",
+    "url": "https://www.pisos.com/comprar/piso-vicalvaro_ambroz28032-63374048773_109300/",
+    "price": 248000,
+    "size_m2": 71.0,
+    "rooms": 3,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [
+      "https://fotos.imghs.net/mm-wp/1093/609/1093_EP349-22609_1_2026041616402831250.jpg"
+    ],
+    "raw_description": "Piso en Vicálvaro",
+    "id": "d8949ba3e69368668bdc40c799b91905",
+    "scraped_at": "2026-04-22T10:26:15.529064"
+  },
+  {
     "title": "Piso en El Raval",
     "url": "https://www.pisos.com/comprar/piso-el_raval-61750674992_100500/",
     "price": 299000,
