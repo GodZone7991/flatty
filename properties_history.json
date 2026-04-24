@@ -1,5 +1,33 @@
 [
   {
+    "title": "Piso en Roquetes",
+    "url": "https://www.pisos.com/comprar/piso-nou_barris_roquetes-63343396723_100200/",
+    "price": 210000,
+    "size_m2": 78.0,
+    "rooms": 3,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Roquetes",
+    "id": "525d98f3a1c3f86a013cc0ba3c40cd0b",
+    "scraped_at": "2026-04-24T10:18:51.506850"
+  },
+  {
+    "title": "Piso en calle de San Magín",
+    "url": "https://www.pisos.com/comprar/piso-zofio-63390235567_100500/",
+    "price": 259900,
+    "size_m2": 62.0,
+    "rooms": 2,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en calle de San Magín",
+    "id": "a0a8483cbd1c7fac76ab275e4ec48319",
+    "scraped_at": "2026-04-24T10:18:51.506850"
+  },
+  {
     "title": "Piso en Avinguda Meridiana",
     "url": "https://www.pisos.com/comprar/piso-el_camp_de_arpa_del_clot08026-63416465096_525021/",
     "price": 299000,
