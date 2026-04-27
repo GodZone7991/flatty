@@ -1,5 +1,52 @@
 [
   {
+    "title": "Piso en Carrer del Llobregós",
+    "url": "https://www.pisos.com/comprar/piso-el_carmel08032-62500466509_995255/",
+    "price": 258000,
+    "size_m2": 73.0,
+    "rooms": 3,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Carrer del Llobregós",
+    "id": "86c3147f38ed0dff37842f6a55f17da1",
+    "scraped_at": "2026-04-27T10:59:10.537379"
+  },
+  {
+    "title": "Chalet en calle del Portal",
+    "url": "https://www.pisos.com/comprar/chalet-san_blas_simancas-63369668849_100500/",
+    "price": 299999,
+    "size_m2": 72.0,
+    "rooms": 3,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [
+      "https://fotos.imghs.net/mm-wp/1005/490/1005_4248490_1_202604242010055626970.jpg",
+      "https://fotos.imghs.net/m-wp/1005/490/1005_4248490_2_202604242010055627226.jpg",
+      "https://fotos.imghs.net/m-wp/1005/490/1005_4248490_3_202604242010055627284.jpg",
+      "https://fotos.imghs.net/m-wp/1005/490/1005_4248490_4_202604242010055627333.jpg"
+    ],
+    "raw_description": "Chalet en calle del Portal",
+    "id": "61110afc283577f86b37b2135c0405a1",
+    "scraped_at": "2026-04-27T10:59:10.537379"
+  },
+  {
+    "title": "Piso en Bulevar de la Naturaleza",
+    "url": "https://www.pisos.com/comprar/piso-ensanche_de_vallecas_valdecarros28031-61702453706_100500/",
+    "price": 299900,
+    "size_m2": 110.0,
+    "rooms": 4,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Bulevar de la Naturaleza",
+    "id": "263a0aa75ff08fd23d3034c0baf568fc",
+    "scraped_at": "2026-04-27T10:59:10.537379"
+  },
+  {
     "title": "Piso en Roquetes",
     "url": "https://www.pisos.com/comprar/piso-nou_barris_roquetes-63343396723_100200/",
     "price": 210000,
