@@ -1,5 +1,82 @@
 [
   {
+    "title": "Piso en Carrer de la Mare de Déu de Port",
+    "url": "https://www.pisos.com/comprar/piso-la_marina_del_port_parc_de_montjuic08038-63360592950_997297/",
+    "price": 269000,
+    "size_m2": 79.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Carrer de la Mare de Déu de Port",
+    "id": "1e26a27d404e318595f191069ff7a8da",
+    "scraped_at": "2026-04-29T10:51:32.210542"
+  },
+  {
+    "title": "Piso en Passeig de la Zona Franca",
+    "url": "https://www.pisos.com/comprar/piso-la_marina_del_port_parc_de_montjuic08038-63387387390_997297/",
+    "price": 290000,
+    "size_m2": 71.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Passeig de la Zona Franca",
+    "id": "a3eb85830ce586542fe45eadcd673e54",
+    "scraped_at": "2026-04-29T10:51:32.210542"
+  },
+  {
+    "title": "Piso en Moscardó",
+    "url": "https://www.pisos.com/comprar/piso-moscardo28026-58418749897_100200/",
+    "price": 229000,
+    "size_m2": 64.0,
+    "rooms": 3,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [
+      "https://fotos.imghs.net/mm-wp/1002/812/1002_626812_99_2025100919102157574.jpeg",
+      "https://fotos.imghs.net/m-wp/1002/812/1002_626812_99_2025100919102157571.jpeg",
+      "https://fotos.imghs.net/m-wp/1002/812/1002_626812_99_2025100919102157569.jpeg",
+      "https://fotos.imghs.net/m-wp/1002/812/1002_626812_99_2025100919102157573.jpeg"
+    ],
+    "raw_description": "Piso en Moscardó",
+    "id": "4f4afb1954e289de1718fe22d0ee875a",
+    "scraped_at": "2026-04-29T10:51:32.210542"
+  },
+  {
+    "title": "Piso en Moscardó",
+    "url": "https://www.pisos.com/comprar/piso-moscardo28026-56691054932_100200/",
+    "price": 250000,
+    "size_m2": 69.0,
+    "rooms": 0,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [
+      "https://fotos.imghs.net/mm-wp/1002/057/1002_630057_1_2025082111085792460.jpeg"
+    ],
+    "raw_description": "Piso en Moscardó",
+    "id": "88e59d691d73ad3fd9ea6d11f396ac12",
+    "scraped_at": "2026-04-29T10:51:32.210542"
+  },
+  {
+    "title": "Piso en calle de Maqueda",
+    "url": "https://www.pisos.com/comprar/piso-latina_aluche28024-63375110020_518874/",
+    "price": 260000,
+    "size_m2": 85.0,
+    "rooms": 2,
+    "address": "",
+    "city": "madrid",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en calle de Maqueda",
+    "id": "a597f06873c1734a132b37aa4ba548e4",
+    "scraped_at": "2026-04-29T10:51:32.210542"
+  },
+  {
     "title": "Piso en Carrer del Llobregós",
     "url": "https://www.pisos.com/comprar/piso-el_carmel08032-62500466509_995255/",
     "price": 258000,
