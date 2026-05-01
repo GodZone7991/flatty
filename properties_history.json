@@ -1,5 +1,19 @@
 [
   {
+    "title": "Piso en Carrer de la Mina de la Ciutat",
+    "url": "https://www.pisos.com/comprar/piso-nou_barris_roquetes08042-58415615207_501686/",
+    "price": 179000,
+    "size_m2": 79.0,
+    "rooms": 3,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Carrer de la Mina de la Ciutat",
+    "id": "b347929a6617d29333bdec87f0ff0c1e",
+    "scraped_at": "2026-05-01T10:20:33.589984"
+  },
+  {
     "title": "Piso en Carrer de la Mare de Déu de Port",
     "url": "https://www.pisos.com/comprar/piso-la_marina_del_port_parc_de_montjuic08038-63360592950_997297/",
     "price": 269000,
