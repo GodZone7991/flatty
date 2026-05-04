@@ -1,5 +1,19 @@
 [
   {
+    "title": "Piso en Carrer del Doctor Letamendi",
+    "url": "https://www.pisos.com/comprar/piso-horta_guinardo_horta-59176220844_100500/",
+    "price": 246000,
+    "size_m2": 61.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Carrer del Doctor Letamendi",
+    "id": "fada1c608fad453d3e3fb7a65b601330",
+    "scraped_at": "2026-05-04T11:02:20.763073"
+  },
+  {
     "title": "Piso en Carrer de la Mina de la Ciutat",
     "url": "https://www.pisos.com/comprar/piso-nou_barris_roquetes08042-58415615207_501686/",
     "price": 179000,
