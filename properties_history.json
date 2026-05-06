@@ -1,5 +1,38 @@
 [
   {
+    "title": "Piso en La Sagrada Família",
+    "url": "https://www.pisos.com/comprar/piso-la_sagrada_familia-62591077714_100200/",
+    "price": 279000,
+    "size_m2": 53.0,
+    "rooms": 2,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [
+      "https://fotos.imghs.net/mm-wp/1002/174/1002_653174_2_202603242033060541876.jpeg",
+      "https://fotos.imghs.net/m-wp/1002/174/1002_653174_8_202603242033060542294.jpeg",
+      "https://fotos.imghs.net/m-wp/1002/174/1002_653174_1_202603242033060541622.jpeg",
+      "https://fotos.imghs.net/m-wp/1002/174/1002_653174_12_202603242033060542505.jpeg"
+    ],
+    "raw_description": "Piso en La Sagrada Família",
+    "id": "98947ca1a33a1d20b658261199fd4f05",
+    "scraped_at": "2026-05-06T11:02:25.835927"
+  },
+  {
+    "title": "Piso en Carrer de Sagunt",
+    "url": "https://www.pisos.com/comprar/piso-sants_montjuic_sants08014-64251387124_997297/",
+    "price": 299000,
+    "size_m2": 76.0,
+    "rooms": 3,
+    "address": "",
+    "city": "barcelona",
+    "source": "pisos.com",
+    "image_urls": [],
+    "raw_description": "Piso en Carrer de Sagunt",
+    "id": "2ec177a870ede5d6f82e4fc0bb2fa419",
+    "scraped_at": "2026-05-06T11:02:25.835927"
+  },
+  {
     "title": "Piso en Carrer del Doctor Letamendi",
     "url": "https://www.pisos.com/comprar/piso-horta_guinardo_horta-59176220844_100500/",
     "price": 246000,
